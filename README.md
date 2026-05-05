@@ -1,4 +1,4 @@
-# Photo GPS Viewer
+# PhotoLocator
 
 画像の EXIF データから GPS 位置情報を読み取り、Google マップで撮影場所を確認できる Web アプリです。
 
